@@ -20,36 +20,29 @@ Created a virtual Domain Controller to simulate a corporate environment. Deploye
 - <b>Windows 11</b>
 - <b>Windows Server 2022</b>
 
-<h2>Program walk-through:</h2>
+<h2>Screenshots</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Server Manager showing Active directory Domain Services, DNS, and DHCP installed on the Domain Controller. <br/>
+<img <img width="975" height="391" alt="image" src="https://github.com/user-attachments/assets/a21ad782-2f0f-4a89-877c-493503460359" />
+<br>
+<br>
+Powershell script used to automate bulk user account creation in Active Directory.  <br/>
+<img <img width="975" height="713" alt="image" src="https://github.com/user-attachments/assets/ad2ec688-c449-436c-8be9-25bd540170da" />
+<br>
+<br>
+Active Directory Users and Computers displaying domain users and organizational units. <br/>
+<img <img width="975" height="476" alt="image" src="https://github.com/user-attachments/assets/e447f715-405f-4031-aab1-42c269aae13c" />
+<br>
+<br>
+ Windows client successfully joined to the Active Directory domain. <br/>
+<img <img width="975" height="627" alt="image" src="https://github.com/user-attachments/assets/1bbe691f-8097-4341-a14a-7e35dea0372f" />
+<br>
+<br>
+Active lease assignment for domain joined client:  <br/>
+<img <img width="975" height="445" alt="image" src="https://github.com/user-attachments/assets/fb9f9dfc-3e48-4810-a848-09b4e023d290" />
+<br>
+<br>
 
 <!--
  ```diff
